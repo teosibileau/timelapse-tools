@@ -32,3 +32,6 @@ pip-log.txt
 *.jpg
 *.mov
 *.avi
+
+# Timelapse Folders
+*-*-*-*-*-*
